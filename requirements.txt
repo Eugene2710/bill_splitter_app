@@ -1,0 +1,2 @@
+Flask==2.2.2        # backend API library
+pydantic==1.10.2    # dataclass library; allows us to be pedantic
